@@ -1,0 +1,16 @@
+C:\Users\gatin\source\repos\book2\book2\bin\Debug\book2.exe.config
+C:\Users\gatin\source\repos\book2\book2\bin\Debug\book2.exe
+C:\Users\gatin\source\repos\book2\book2\bin\Debug\book2.pdb
+C:\Users\gatin\source\repos\book2\book2\obj\Debug\book2.csproj.AssemblyReference.cache
+C:\Users\gatin\source\repos\book2\book2\obj\Debug\book2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatin\source\repos\book2\book2\obj\Debug\book2.csproj.CoreCompileInputs.cache
+C:\Users\gatin\source\repos\book2\book2\obj\Debug\book2.exe
+C:\Users\gatin\source\repos\book2\book2\obj\Debug\book2.pdb
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\bin\Debug\book2.exe.config
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\bin\Debug\book2.exe
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\bin\Debug\book2.pdb
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\obj\Debug\book2.csproj.AssemblyReference.cache
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\obj\Debug\book2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\obj\Debug\book2.csproj.CoreCompileInputs.cache
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\obj\Debug\book2.exe
+C:\Users\gatin\OneDrive\Рабочий стол\book2\book2\obj\Debug\book2.pdb
